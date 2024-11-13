@@ -1,6 +1,6 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :05-11-2024
+# Date : 24/10/24
 # NAME: SHARON STEFFANI.F
 # Aim :
 To write a program to implement the back end of the compiler.
